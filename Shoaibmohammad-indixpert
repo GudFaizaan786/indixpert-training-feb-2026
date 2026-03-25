@@ -1,0 +1,6 @@
+#include<stdio.h>
+{
+  printf("name = Shoaibmohammad");
+
+  return 0;
+}
